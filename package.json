@@ -1,0 +1,23 @@
+{
+  "name": "nsm",
+  "version": "1.0.0",
+  "description": "node-spider-meizi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/UniverseKing/nsm.git"
+  },
+  "keywords": [
+    "spider",
+    "node"
+  ],
+  "author": "LEO",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^2.0.0"
+  }
+}
